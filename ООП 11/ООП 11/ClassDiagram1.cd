@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Printer" Collapsed="true">
+    <Position X="6" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Printer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Scanner" Collapsed="true">
+    <Position X="8" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAACACAAAAAAABIAAAAAAAAAAA=</HashCode>
+      <FileName>Scanner.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MFU" Collapsed="true">
+    <Position X="6.5" Y="2" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAgAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MFU.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Product">
+    <Position X="0.5" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAAAACAAAgAAAAAARQAAAAEAABgAAAEAAAAAAA=</HashCode>
+      <FileName>Product.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Buy">
+    <Position X="0.5" Y="4.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQIAAAAAAAAAAAAIAIAAAAQACAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Buy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Check">
+    <Position X="3.25" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Check.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

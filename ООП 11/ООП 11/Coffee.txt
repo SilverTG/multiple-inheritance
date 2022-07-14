@@ -1,0 +1,7 @@
+
+NameCoffee
+Price: 50
+Weight: 0.3
+Amount: 2
+Total price: 100
+Total weight: 0.6

@@ -1,0 +1,5 @@
+﻿  AudioBook.cpp
+  Source.cpp
+C:\Users\stg09\Desktop\ООП С++\ООП 11\ООП 11\Source.cpp(65,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  ООП 11.vcxproj -> C:\Users\stg09\Desktop\ООП С++\ООП 11\x64\Debug\ООП 11.exe
